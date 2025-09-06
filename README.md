@@ -1,5 +1,3 @@
-enaenaenahm/README.md
-
 ## About me
 
 🎓 I have a **Bachelor's degree in Electrical Power Engineering and Electrical Engineering** from *Kazan Federal University (KFU)*.
